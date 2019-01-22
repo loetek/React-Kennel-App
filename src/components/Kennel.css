@@ -1,0 +1,50 @@
+.kennel {
+  
+  display: flex;
+  justify-content: space-around, space-between;
+  flex-direction: column;
+  background: conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+  font: bolder;
+  border-radius: 12px;
+  padding:40px;
+
+  }
+
+  .employees{
+
+    display: flex;
+    justify-content: space-around, space-between;
+    flex-direction: column;
+    background: conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+    font: bolder;
+    font-size: 20px;
+    border-radius: 12px;
+    padding:40px;
+    
+}
+
+.animals{
+
+  display: flex;
+  justify-content: space-around, space-between;
+  flex-direction: column;
+  background: conic-gradient(red, yellow,aqua,blue, lime, yellow,red);
+  font: bolder;
+  font-size: 20px;
+  border-radius: 12px;
+  padding:40px;
+
+}
+
+.locations{
+
+  display: flex;
+  justify-content: space-around, space-between;
+  flex-direction: column;
+  background: conic-gradient(aqua, red,lime,yellow, orange, blue, aqua);
+  font: bolder;
+  font-size:20px;
+  border-radius: 12px;
+  padding:40px;
+
+}
